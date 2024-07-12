@@ -19,8 +19,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a<img src="html.png" alt="html" width="50px" height="50px"> </p>
-<img src="html.png" alt="html" width="50px" height="50px">
+<P align="left">
+ <img src="java.png" alt="java-logo" width="50px" height="50px">
+ <img src="c-programming.png" alt="c-logo" width="50px" height="50px">
+  <img src="html.png" alt="html-logo" width="50px" height="50px">
+</P>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyon326&show_icons=true&locale=en&layout=compact" alt="riyon326" /></p>
 
