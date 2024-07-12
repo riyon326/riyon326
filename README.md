@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/riyon-maity-2842a2282/"><img align="center" src="linkedin-logo.png" alt="riyon maity" height="30" width="40" /></a>
-<a href="https://instagram.com/the.calcutta_chitrashree" target="blank"><img align="center" src="instagram-logo.png" alt="the.calcutta_chitrashree" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/riyon-maity-2842a2282/"><img align="center" src="linkedin-logo.png" alt="riyon maity" height="40" width="40" /></a>
+<a href="https://instagram.com/the.calcutta_chitrashree" target="blank"><img align="center" src="instagram-logo.png" alt="the.calcutta_chitrashree" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
