@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riyon Maity</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
- <img align="right" alt="coding"width="400" src="https://raw.githubusercontent.com/akndmr/akndmr/main/coding.gif"   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyon326&label=Profile%20views&color=0e75b6&style=flat" alt="riyon326" /> </p
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyon326&label=Profile%20views&color=0e75b6&style=flat" alt="riyon326" /> </p>
 
@@ -14,6 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/riyon maity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyon maity" height="30" width="40" /></a>
 <a href="https://instagram.com/the.calcutta_chitrashree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.calcutta_chitrashree" height="30" width="40" /></a>
 </p>
 
