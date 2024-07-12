@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Riyon Maity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyon maity" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/Riyon Maity](https://www.linkedin.com/in/riyon-maity-2842a2282/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyon maity" height="30" width="40" /></a>
 <a href="https://instagram.com/the.calcutta_chitrashree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.calcutta_chitrashree" height="30" width="40" /></a>
 </p>
 
